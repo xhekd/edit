@@ -156,7 +156,7 @@
 * [Input Leap](https://github.com/input-leap/input-leap) - Multi-Computer Control
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
 * [Fan Control](https://github.com/wiiznokes/fan-control) - Fan Controller
-* [⁠WinApps](https://github.com/winapps-org/winapps) - Run Windows Apps on Linux
+* [⁠WinApps](https://github.com/winapps-org/winapps) or [WinBoat](https://www.winboat.app/) / [Github](https://github.com/TibixDev/winboat) - Run Windows Apps on Linux
 * [Teleport](https://teleportsite.pages.dev/) - Windows App Compatibility Analyzer
 * [NetBoot](https://netboot.xyz/) - iPXE Network Boot
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
